@@ -8,12 +8,15 @@ This project explores the Titanic - Machine Learning from Disaster dataset from 
 The dataset contains information about Titanic passengers, including their demographics, ticket details, and survival status. Our goal is to transform the data to extract meaningful insights and create a well-preprocessed dataset.
 
 ### Steps Performed
+
 1️⃣ Data Preprocessing
 - Understanding Dataset
 - Handling Missing Values
 - Duplicates
 - Outliers
+
 2️⃣ Exploratory Data Analysis (EDA)
+
 3️⃣ Feature Engineering
 - Extracted Features
 - Encoding And Scaling
